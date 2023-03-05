@@ -1,0 +1,16 @@
+[
+{
+  "modid": "iceage",
+  "name": "Ice Age",
+  "description": "A simple mod which add some ice tools",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["haoooo_","Hollow"],
+  "credits": "The friends who teached me and helped me in the making ",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
